@@ -9,8 +9,6 @@ services:
       - "50000:50000"
     volumes_from:
       - master_data
-    environment:
-      - JAVA_OPTS=-Xmx2048m
   master_data:
     image: busybox
     volumes:

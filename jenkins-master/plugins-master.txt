@@ -42,4 +42,4 @@ amazon-ecs:latest
 aws-credentials:latest
 aws-java-sdk:latest
 jackson2-api:latest
-swarm:2.0
+swarm:latest
